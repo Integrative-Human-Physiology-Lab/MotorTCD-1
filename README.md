@@ -24,7 +24,7 @@ The [Assembly Guide](https://github.com/Integrative-Human-Physiology-Lab/MotorTC
 This step requires you to have all the components as listed in the Bill of Materials for our project.
 
 **4. Upload the code:**
-Connect the Arduino Uno to your computer and upload the [Arduino Code](https://github.com/Pradeshi/MotorTCD-1/blob/main/Arduino%20Code/motortcd.ino) available in our github.
+Connect the Arduino Uno to your computer and upload the [Arduino Code](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD-1/tree/main/Arduino%20Code) available in our github.
 
 **5. Run the test**
 Clamp the TCD probe into the moving part and control it with the joystick.
