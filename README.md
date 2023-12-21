@@ -10,7 +10,7 @@ The project runs on Arduino Uno and controlled by joystick module available for 
 
 **2. Print the 3D-printable files:**
 
-Print the STL file as shown in the [Print_Files](https://github.com/Pradeshi/MotorTCD-1/tree/main/Print_Files).
+Print the STL file as shown in the [Print_Files](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD-1/tree/main/Print_Files).
 
 **3. Start the Assembly:**
 The [Assembly Guide](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/assembly%20guide.pdf) shows you step by step process to assemble and wire the entire project with pictures. The entire assembly process is break down into following steps:
