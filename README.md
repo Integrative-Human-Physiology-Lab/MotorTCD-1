@@ -6,7 +6,7 @@ The project runs on Arduino Uno and controlled by joystick module available for 
 # **GETTING STARTED**
 **1. Order the Off-The-Shelf Components:**
 
-  Order the components as listed in the [Bill of Material](https://github.com/Pradeshi/MotorTCD-1/blob/main/Documentation/BOM.xlsx) for the project.
+  Order the components as listed in the [Bill of Material](https://github.com/Integrative-Human-Physiology-Lab/MotorTCD-1/blob/main/Documentation/BOM.xlsx) for the project.
 
 **2. Print the 3D-printable files:**
 
