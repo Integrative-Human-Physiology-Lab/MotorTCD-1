@@ -31,7 +31,6 @@ Clamp the TCD probe into the moving part and control it with the joystick.
 
 ![motortcd](https://user-images.githubusercontent.com/104403515/213111627-7f3d124f-dd64-400d-8a2e-32c50bc2553b.jpg)
 
+# **Joystick Shield Voltage: **
 
-
-
-
+Set joystick shield to 5V  (not 3V)
